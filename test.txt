@@ -5,3 +5,6 @@ frist change
 ÔõÑù
 this is ok now!good
 come on !!!!!!!
+git init
+git add .
+git remote addorigin git@github.com:zxr/Hellow-Word.git
